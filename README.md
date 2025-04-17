@@ -1,50 +1,58 @@
-# 👋 ¡Hola! Soy **Naiara Rodríguez Solano**  
-**Analista de Datos** · Especialista en Visualización · Apasionada por la Educación y la Sostenibilidad
+# 👋 ¡Hola! Soy Naiara Rodríguez Solano
+
+🎯 Analista de Datos | Educadora Digital | Especialista en Visualización, Sostenibilidad y Tecnología Educativa
+
+Bienvenida a mi espacio **Nailytic**, donde combino la analítica de datos con una mirada estratégica, didáctica y social. Aquí encontrarás una selección de proyectos que demuestran cómo los datos pueden convertirse en soluciones accionables, historias valiosas y herramientas de transformación.
 
 ---
 
-✨ Bienvenida a mi perfil de GitHub. Aquí encontrarás:
+## 🚀 Sobre mí
 
-- 🛠️ **Tecnologías & Herramientas**  
-  Python · pandas · NumPy · Matplotlib · Seaborn · Plotly · Power BI · Dash · Jinja2 · FPDF · SQL · Git
-
-- 🎓 **Certificaciones & Formación**  
-  • Data Analytics Certificate (Google)  
-  • LinkedIn Learning – Ruta Completa en Inteligencia de Negocios  
-  • Cursos en ERP, Sostenibilidad, SEO Marketing, Plataformas Empresariales  
-  • En curso: Software & Plataformas para Empresas
-
-- 📂 **Portafolio de Proyectos**  
-  Explora 10 casos prácticos de análisis de datos, visualización interactiva y automatización:  
-  1. [Limpieza y Validación de Datos](https://nailytic.github.io/proyectos/proyecto01_limpieza_datos/)  
-  2. [Dashboard de Ventas con Power BI](https://nailytic.github.io/proyectos/proyecto02_dashboard_powerbi/)  
-  3. [Automatización de Informes con Python](https://nailytic.github.io/proyectos/proyecto03_informes_automatizados/)  
-  4. [Análisis de Indicadores de Sostenibilidad](https://nailytic.github.io/proyectos/proyecto04_sostenibilidad_dashboard/)  
-  5. [Detección de Anomalías en Rendimiento Académico](https://nailytic.github.io/proyectos/proyecto05_anomalias_rendimiento/)  
-  6. [Brecha Digital Educativa](https://nailytic.github.io/proyectos/proyecto06_brecha_digital_educativa/)  
-  7. [Eficiencia de Programas Formativos](https://nailytic.github.io/proyectos/proyecto07_eficiencia_formativa/)  
-  8. [Impacto de la IA en Educación](https://nailytic.github.io/proyectos/proyecto08_impacto_ia_educacion/)  
-  9. [Tiempos y Completitud en Formación Online](https://nailytic.github.io/proyectos/proyecto09_tiempos_completitud/)  
-  10. [Engagement y Abandono en Cursos Virtuales](https://nailytic.github.io/proyectos/proyecto10_engagement_abandono/)
-
-- 🚀 **Lo que hago**  
-  • Transformo datos crudos en insights estratégicos  
-  • Diseño dashboards ejecutivos y análisis interactivos  
-  • Automatizo reporting en PDF y Excel  
-  • Aplico IA y análisis estadístico para resolución de problemas
-
-- 🎯 **Mi visión**  
-  Impulsar el cambio en educación y empresas a través de la inteligencia de datos, la tecnología y la comunicación efectiva.
+- 🎓 Formación en ciencia de datos, inteligencia de negocios, sostenibilidad y tecnología educativa.
+- 🧠 Apasionada por el análisis ético, el diseño instruccional y la automatización de procesos.
+- 📚 Colaboradora en creación de contenidos formativos y entornos de aprendizaje digitales.
+- 🔍 Interesada en IA, eficiencia en la toma de decisiones y nuevas habilidades del trabajo del futuro.
 
 ---
 
-## 📫 ¡Conectemos!  
-- 🌐 Portfolio web: [nailytic.github.io](https://nailytic.github.io)  
-- 🔗 LinkedIn: [linkedin.com/in/nailytic](https://linkedin.com/in/nailytic)  
-- 📧 Email: naiarars.nr@gmail.com  
+## 🛠️ Habilidades técnicas
+
+**Lenguajes y Herramientas:**  
+`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Power BI` · `Tableau` · `Streamlit`  
+`Scikit-learn` · `FPDF` · `Markdown` · `Jupyter` · `SQL` · `Git` · `HTML/CSS` · `LMS` · `Canva`
+
+**Especialidades:**  
+- Limpieza y validación de datos  
+- Automatización de informes  
+- Visualización interactiva  
+- Análisis de impacto y sostenibilidad  
+- Evaluación de madurez digital y brechas educativas  
+- Narrativas basadas en datos (data storytelling)
 
 ---
 
-> “Los datos bien contados son el puente entre la información y la acción.”  
-> — Naiara Rodríguez Solano
+## 📂 Portafolio destacado
+
+Explora mis proyectos profesionales 👉 [https://nailytic.github.io](https://nailytic.github.io)
+
+Algunos ejemplos:
+- 📊 Limpieza y validación de datos de ventas minoristas
+- 📈 Dashboard en Power BI para análisis de ventas
+- 📑 Automatización de reportes en PDF y Excel
+- 🌍 Indicadores de sostenibilidad por país
+- 🔍 Detección de anomalías académicas
+- 🧭 Análisis sobre madurez digital y formación continua
+- 💡 Visualizaciones sobre impacto de la IA en educación
+
+---
+
+## 📬 Contacto
+
+- 🔗 [LinkedIn](https://linkedin.com/in/nailytic)  
+- 💼 [GitHub Pages - Portafolio](https://nailytic.github.io)  
+- 📧 nailytic@gmail.com
+
+---
+
+> _“Los datos no son el fin, son el lenguaje para rediseñar el mundo.”_
 
