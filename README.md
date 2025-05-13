@@ -54,8 +54,8 @@ Actualmente colaboro en la creación de contenidos para formación subvencionada
 ## 📬 Contacto y Web
 
 * 🌐 Web de portafolio: [nailytic.github.io](https://nailytic.github.io)
-* 💼 LinkedIn: [linkedin.com/in/naiararodriguezsolano](https://www.linkedin.com/in/naiararodriguezsolano)
-* 📧 Email: [nailytic.data@gmail.com](mailto:nailytic.data@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/naiara-rsolano](https://www.linkedin.com/in/naiara-rsolano)
+* 📧 Email: [naiarars.nr@gmail.com](mailto:naiarars.nr@gmail.com)
 
 ---
 
